@@ -1,0 +1,98 @@
+body {
+    background-color: white;
+}
+/* .nvbrtop1 {
+    background-color: #ff0066;
+    z-index: 2;
+} */
+
+.nvbr1 {
+    background-color: #ff0066;
+}
+.nvbrlink1 {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.nvbrlink1:hover {
+    color: black;
+}
+
+.cntnr1 {
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    max-width: 900px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.cntnr1 img {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+/* .mepet1 {
+    margin-bottom: -10px;
+    padding: 0px;
+} */
+
+.cntnr2 {
+    margin: 40px auto;
+    max-width: 900px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+.mytitle1 {
+    margin-top: 30px;
+    display: block;
+    font-weight: bold;
+    text-align: center;
+    color: #ff0066;
+}
+.mytitle2 {
+    margin-top: -30px;
+    display: block;
+    font-weight: bold;
+    text-align: center;
+    color: #ff0066;
+}
+.mytitle3 {
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    color: #ff0066;
+}
+.mytitle3:hover {
+    color: black;
+}
+
+.konseling-klik1 {
+    display: block;
+    color: #ff0066;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+}
+.konseling-klik1:hover {
+    color: black;
+}
+
+.ftr1 {
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: #ff0066;
+    text-align: center;
+    z-index: 2;
+}
+.cpyr1 {
+    padding: 10px;
+    color: white;
+}
+
