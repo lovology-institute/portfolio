@@ -42,7 +42,7 @@ body {
 } */
 
 .cntnr2 {
-    margin: 40px auto;
+    margin: 0px auto;
     max-width: 900px;
     background-color: white;
     display: flex;
